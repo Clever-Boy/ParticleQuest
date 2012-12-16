@@ -4,7 +4,7 @@
   <title><![CDATA[ParticleQuest Dev Blog]]></title>
   <link href="http://OmeGak.github.com/ParticleQuest/atom.xml" rel="self"/>
   <link href="http://OmeGak.github.com/ParticleQuest/"/>
-  <updated>2012-12-16T23:54:04+01:00</updated>
+  <updated>2012-12-16T23:55:33+01:00</updated>
   <id>http://OmeGak.github.com/ParticleQuest/</id>
   <author>
     <name><![CDATA[ParticleQuest Team]]></name>
@@ -12,6 +12,24 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[new-post]]></title>
+    <link href="http://OmeGak.github.com/ParticleQuest/2012/12/new-post/"/>
+    <updated>2012-12-16T23:55:00+01:00</updated>
+    <id>http://OmeGak.github.com/ParticleQuest/2012/12/new-post</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[hello world 2]]></title>
+    <link href="http://OmeGak.github.com/ParticleQuest/2012/12/hello-world-2/"/>
+    <updated>2012-12-16T23:55:00+01:00</updated>
+    <id>http://OmeGak.github.com/ParticleQuest/2012/12/hello-world-2</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[hello world]]></title>
