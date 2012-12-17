@@ -4,7 +4,7 @@
   <title><![CDATA[ParticleQuest Dev Blog]]></title>
   <link href="http://OmeGak.github.com/ParticleQuest/atom.xml" rel="self"/>
   <link href="http://OmeGak.github.com/ParticleQuest/"/>
-  <updated>2012-12-16T23:55:33+01:00</updated>
+  <updated>2012-12-17T01:04:05+01:00</updated>
   <id>http://OmeGak.github.com/ParticleQuest/</id>
   <author>
     <name><![CDATA[ParticleQuest Team]]></name>
@@ -14,29 +14,17 @@
 
   
   <entry>
-    <title type="html"><![CDATA[new-post]]></title>
-    <link href="http://OmeGak.github.com/ParticleQuest/2012/12/new-post/"/>
-    <updated>2012-12-16T23:55:00+01:00</updated>
-    <id>http://OmeGak.github.com/ParticleQuest/2012/12/new-post</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[hello world 2]]></title>
-    <link href="http://OmeGak.github.com/ParticleQuest/2012/12/hello-world-2/"/>
-    <updated>2012-12-16T23:55:00+01:00</updated>
-    <id>http://OmeGak.github.com/ParticleQuest/2012/12/hello-world-2</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[hello world]]></title>
+    <title type="html"><![CDATA[Hello world!]]></title>
     <link href="http://OmeGak.github.com/ParticleQuest/2012/12/hello-world/"/>
     <updated>2012-12-16T22:54:00+01:00</updated>
     <id>http://OmeGak.github.com/ParticleQuest/2012/12/hello-world</id>
-    <content type="html"><![CDATA[<p>Hello world!</p>
+    <content type="html"><![CDATA[<p>We&#8217;re alive in the blogverse!</p>
+
+<p>From now on we&#8217;ll be posting here our progress throughout the development of the project. Expect us to start with a few posts to catch up with everything that has been going on with ParticleQuest since the beginning.</p>
+
+<p>Just to summarize and spoil some of the upcoming posts, at the moment, we, <a href="http://twitter.com/OmeGak">@OmeGak</a> and <a href="https://twitter.com/L4D15">@L4D15</a>, are participating in the <a href="http://www.concursosoftwarelibre.org/1213/">CUSL</a>, an open source contest, with ParticleQuest. This was pretty much the main motivation for us to work on the project, besides for the fun of hacking, but CERN showed interest in it and Mozilla suggested us to participate in the <a href="https://gameon.mozilla.org/en-US/">GameOn</a> as well, so this is just the start a long journey!</p>
+
+<p>One final announce. The DNS are not updated yet but you will be able to access the blog at <a href="http://blog.particlequest.com">http://blog.particlequest.com</a> pretty soon.</p>
 ]]></content>
   </entry>
   
