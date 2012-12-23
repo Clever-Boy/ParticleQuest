@@ -4,7 +4,7 @@
   <title><![CDATA[ParticleQuest Dev Blog]]></title>
   <link href="http://OmeGak.github.com/ParticleQuest/atom.xml" rel="self"/>
   <link href="http://OmeGak.github.com/ParticleQuest/"/>
-  <updated>2012-12-17T02:09:22+01:00</updated>
+  <updated>2012-12-23T22:59:18+01:00</updated>
   <id>http://OmeGak.github.com/ParticleQuest/</id>
   <author>
     <name><![CDATA[ParticleQuest Team]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The Beginning]]></title>
+    <link href="http://OmeGak.github.com/ParticleQuest/2012/12/the-beginning/"/>
+    <updated>2012-12-23T21:09:00+01:00</updated>
+    <id>http://OmeGak.github.com/ParticleQuest/2012/12/the-beginning</id>
+    <content type="html"><![CDATA[<p>Let&#8217;s share a little bit of history. It all began as an idea of <a href="https://twitter.com/teleyinex">Daniel Lombraña</a> for the <a href="http://www.citizencyberscience.net/cern-webfest/">CERN Summer Student Webfest</a> last Summer. Wouldn&#8217;t forking BrowserQuest to teach particle physics be a great idea?</p>
+
+<p>During the hackathon, <a href="https://twitter.com/jessykate">Jessy Kate</a> took the lead and other four followed her to start working on the project ParticleQuest. Thanks to the multicultural environment of CERN, among the team there were people from Canada, France, Philippines and Spain.</p>
+
+<p><img src="../images/img/2012-12-23-the-beginning.jpg"></p>
+
+<p>After the weekend it turned out that the jury found ParticleQuest deserved the first prize (yay!) and thus our next step was the Mozilla Festival 2012 in London. But we&#8217;ll talk about that in the next post.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Hello world!]]></title>
