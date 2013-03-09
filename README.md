@@ -21,8 +21,8 @@ Getting the server up and running is pretty easy. You need to have the following
 
 Clone the git repo:
 
-    $ git clone git://github.com/browserquest/BrowserQuest.git
-    $ cd BrowserQuest
+    $ git clone git://github.com/OmeGak/ParticleQuest.git
+    $ cd ParticleQuest
 
 Then install the Node.js dependencies by running:
 
@@ -76,12 +76,11 @@ Mac OS X
 
 Node installed through Homebrew is known to work. i.e.:
 
-* git clone git://github.com/browserquest/BrowserQuest.git
-* cd BrowserQuest
-* brew install node
-* npm install -d
-* node server/js/main.js
-
+    $ git clone git://github.com/browserquest/ParticleQuest.git
+    $ cd BrowserQuest
+    $ brew install node
+    $ npm install -d
+    $ node server/js/main.js
 
 Windows
 -------
