@@ -1,7 +1,7 @@
 ParticleQuest
 ============
 
-[ParticleQuest](http://particlequest.com/) is a HTML5/JavaScript multiplayer game experiment for making Particle Physics fun.
+[ParticleQuest](http://particlequest.com/) is a HTML5/JavaScript multiplayer game experiment for making Particle Physics fun. The goal of this project is to create a science based story modifying BrowserQuest. In order to do so, we are extending the engine, implementing new mechanics and including new graphics.
 
 It has two major parts:
 
