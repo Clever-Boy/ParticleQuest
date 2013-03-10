@@ -1,16 +1,31 @@
 ParticleQuest
 ============
 
-[ParticleQuest](http://particlequest.com/) is a HTML5/JavaScript multiplayer game experiment for making Particle Physics fun.
+[ParticleQuest](http://particlequest.com/) is a HTML5/JavaScript multiplayer game experiment for making Particle Physics fun. The goal of this project is to create a science based story modifying BrowserQuest. In order to do so, we are extending the engine, implementing new mechanics and including new graphics.
 
-It has two major parts:
+### Why we do ParticleQuest
+ParticleQuest is a project managed by students in their free time and they do it for...
+* Learning cutting-edge web technologies.
+* Improving their game design skills.
+* And enjoying while hacking an awesome videogame! :D
 
-* the server side, which runs using Node.js
-* the client side, which runs in your browser
+### What we are trying to achieve
+After discussing quite a lot what would be the aim, scope and expectations of ParticleQuest, these could summarize the main goals that are planed to be achieved at some point.
+* Tell a story about particle physics.
+* Complete redesign of the graphics.
+* Improve the game mechanics.
+
+### Further and beyond
+ParticleQuest was burn during a hackathon organized by **Mozilla** at **CERN** and both organizations have shown interest in the project if it happens to come to fruition. That's quite a lot of motivation!
 
 
 How to get it going
 -------------------
+
+ParticleQuest has two major parts:
+
+* the server side, which runs using Node.js
+* the client side, which runs in your browser
 
 Getting the server up and running is pretty easy. You need to have the following installed:
 
