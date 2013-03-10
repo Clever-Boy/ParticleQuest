@@ -36,7 +36,7 @@ Getting the server up and running is pretty easy. You need to have the following
 
 Clone the git repo:
 
-    $ git clone git://github.com/OmeGak/ParticleQuest.git
+    $ git clone git://github.com/particlequest/ParticleQuest.git
     $ cd ParticleQuest
 
 Then install the Node.js dependencies by running:
@@ -108,7 +108,7 @@ extensions for npm modules installed.
 Documentation
 -------------
 
-Lots of useful info on the [wiki](https://github.com/OmeGak/ParticleQuest/wiki).
+Lots of useful info on the [wiki](https://github.com/particlequest/ParticleQuest/wiki).
 
 
 License
