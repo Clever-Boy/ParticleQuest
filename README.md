@@ -16,7 +16,7 @@ After discussing quite a lot what would be the aim, scope and expectations of Pa
 * Improve the game mechanics.
 
 ### Further and beyond
-ParticleQuest was burn during a hackathon organized by **Mozilla** at **CERN** and both organizations have shown interest in the project if it happens to come to fruition. That's quite a lot of motivation!
+ParticleQuest was born during a hackathon organized by **Mozilla** at **CERN** and both organizations have shown interest in the project if it happens to come to fruition. That's quite a lot of motivation!
 
 
 How to get it going
